@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Capstone</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="new_user_register_here">New User?Register Here</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password...</string>
+    <string name="enter_e_mail">Enter E-Mail...</string>
+    <string name="google_logo">google logo</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password...</string>
+    <string name="error">Error :</string>
+    <string name="confirm_pass_fiels">Confirm Password and Password Field doesn\'t match.</string>
+    <string name="products">Products</string>
+    <string name="favourites">Favourites</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="logout">logout</string>
+    <string name="search_your_product">Lipstick,Blush etc,.</string>
+    <string name="search">Search</string>
+    <string name="product_image">product image</string>
+    <string name="like">Like</string>
+    <string name="brand_name">Brand Name:</string>
+    <string name="product_name">Product Name:</string>
+    <string name="price">Price:</string>
+    <string name="product_link">Product Link:</string>
+    <string name="description">Description:</string>
+    <string name="ale_msg">Open Settings to connect to the Internet</string>
+    <string name="ale_ttl">Internet Connection is not available</string>
+    <string name="gset">Goto Settings</string>
+</resources>
